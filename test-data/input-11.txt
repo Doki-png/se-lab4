@@ -1,0 +1,3 @@
+# Első SINGLE lövés, mindkét store tele
+GT4500,2,0,2,0
+TORPEDO,SINGLE
